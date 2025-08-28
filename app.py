@@ -6,6 +6,7 @@ import streamlit as st
 from PIL import Image, UnidentifiedImageError
 from sklearn.metrics.pairwise import cosine_similarity
 import imagehash
+web: uvicorn app:app --host 0.0.0.0 --port $PORT
 
 # Set up the page with a friendly title and layout
 st.set_page_config(page_title="Picture-Based Product Finder", layout="wide")
