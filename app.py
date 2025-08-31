@@ -9,7 +9,7 @@ import imagehash
 
 # Set up the page with a friendly title and layout
 st.set_page_config(page_title="Picture-Based Product Finder", layout="wide")
-st.title(" Picture-Based Product Finder")
+st.title("Visual Product Matcher Build ")
 
 # Cache the product catalog to avoid reloading it
 @st.cache_data(show_spinner=False)
@@ -127,7 +127,7 @@ with left_column:
     st.subheader("About This App")
     st.markdown(
         "This tool uses a **super lightweight** approach (perceptual hash + color histogram) "
-        "to find products that look similar. It's quick and simple, perfect for demos."
+        "to find products that look similar."
     )
 
 # Right column: Show matching products
@@ -176,6 +176,5 @@ with st.expander("ℹ️ Help & Notes"):
         - Use the sidebar to filter by similarity score or product category.
 
         **Why this is lightweight:** No bulky ML models are used, so the app stays small and runs on free platforms.
-        For better accuracy, you could later upgrade to a vision model like CLIP.
         """
     )
