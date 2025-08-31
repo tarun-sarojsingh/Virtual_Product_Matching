@@ -119,7 +119,7 @@ elif url_input.strip():
 with left_column:
     st.subheader("Your Picture")
     if user_image is not None:
-        st.image(user_image, use_column_width=True)
+        st.image(user_image, use_container_width=True)
     else:
         st.caption("Upload a picture or paste an image link to get started.")
 
@@ -161,7 +161,7 @@ with right_column:
                     with columns[i % 3]:
                         st.markdown(f"**{product['name']}**")
                         st.caption(f"Category: {product['category']} • Price: Rs{product['price']}")
-                        st.image(product["image_url"], use_column_width=True)
+                        st.image(product["image_url"], use_container_width=True)
                         st.progress(float(product["match_score"]))
 
 # Add a help section
