@@ -1,61 +1,63 @@
 id,name,category,price,image_url
-1,Shoes Model 01,Shoes,29,https://picsum.photos/seed/1/512/512
-2,Bags Model 02,Bags,39,https://picsum.photos/seed/2/512/512
-3,Watches Model 03,Watches,49,https://picsum.photos/seed/3/512/512
-4,Glasses Model 04,Glasses,59,https://picsum.photos/seed/4/512/512
-5,Shirts Model 05,Shirts,69,https://picsum.photos/seed/5/512/512
-6,Pants Model 06,Pants,79,https://picsum.photos/seed/6/512/512
-7,Shoes Model 07,Shoes,19,https://picsum.photos/seed/7/512/512
-8,Bags Model 08,Bags,29,https://picsum.photos/seed/8/512/512
-9,Watches Model 09,Watches,39,https://picsum.photos/seed/9/512/512
-10,Glasses Model 10,Glasses,49,https://picsum.photos/seed/10/512/512
-11,Shirts Model 11,Shirts,59,https://picsum.photos/seed/11/512/512
-12,Pants Model 12,Pants,69,https://picsum.photos/seed/12/512/512
-13,Shoes Model 13,Shoes,79,https://picsum.photos/seed/13/512/512
-14,Bags Model 14,Bags,19,https://picsum.photos/seed/14/512/512
-15,Watches Model 15,Watches,29,https://picsum.photos/seed/15/512/512
-16,Glasses Model 16,Glasses,39,https://picsum.photos/seed/16/512/512
-17,Shirts Model 17,Shirts,49,https://picsum.photos/seed/17/512/512
-18,Pants Model 18,Pants,59,https://picsum.photos/seed/18/512/512
-19,Shoes Model 19,Shoes,69,https://picsum.photos/seed/19/512/512
-20,Bags Model 20,Bags,79,https://picsum.photos/seed/20/512/512
-21,Watches Model 21,Watches,19,https://picsum.photos/seed/21/512/512
-22,Glasses Model 22,Glasses,29,https://picsum.photos/seed/22/512/512
-23,Shirts Model 23,Shirts,39,https://picsum.photos/seed/23/512/512
-24,Pants Model 24,Pants,49,https://picsum.photos/seed/24/512/512
-25,Shoes Model 25,Shoes,59,https://picsum.photos/seed/25/512/512
-26,Bags Model 26,Bags,69,https://picsum.photos/seed/26/512/512
-27,Watches Model 27,Watches,79,https://picsum.photos/seed/27/512/512
-28,Glasses Model 28,Glasses,19,https://picsum.photos/seed/28/512/512
-29,Shirts Model 29,Shirts,29,https://picsum.photos/seed/29/512/512
-30,Pants Model 30,Pants,39,https://picsum.photos/seed/30/512/512
-31,Shoes Model 31,Shoes,49,https://picsum.photos/seed/31/512/512
-32,Bags Model 32,Bags,59,https://picsum.photos/seed/32/512/512
-33,Watches Model 33,Watches,69,https://picsum.photos/seed/33/512/512
-34,Glasses Model 34,Glasses,79,https://picsum.photos/seed/34/512/512
-35,Shirts Model 35,Shirts,19,https://picsum.photos/seed/35/512/512
-36,Pants Model 36,Pants,29,https://picsum.photos/seed/36/512/512
-37,Shoes Model 37,Shoes,39,https://picsum.photos/seed/37/512/512
-38,Bags Model 38,Bags,49,https://picsum.photos/seed/38/512/512
-39,Watches Model 39,Watches,59,https://picsum.photos/seed/39/512/512
-40,Glasses Model 40,Glasses,69,https://picsum.photos/seed/40/512/512
-41,Shirts Model 41,Shirts,79,https://picsum.photos/seed/41/512/512
-42,Pants Model 42,Pants,19,https://picsum.photos/seed/42/512/512
-43,Shoes Model 43,Shoes,29,https://picsum.photos/seed/43/512/512
-44,Bags Model 44,Bags,39,https://picsum.photos/seed/44/512/512
-45,Watches Model 45,Watches,49,https://picsum.photos/seed/45/512/512
-46,Glasses Model 46,Glasses,59,https://picsum.photos/seed/46/512/512
-47,Shirts Model 47,Shirts,69,https://picsum.photos/seed/47/512/512
-48,Pants Model 48,Pants,79,https://picsum.photos/seed/48/512/512
-49,Shoes Model 49,Shoes,19,https://picsum.photos/seed/49/512/512
-50,Bags Model 50,Bags,29,https://picsum.photos/seed/50/512/512
-51,Watches Model 51,Watches,39,https://picsum.photos/seed/51/512/512
-52,Glasses Model 52,Glasses,49,https://picsum.photos/seed/52/512/512
-53,Shirts Model 53,Shirts,59,https://picsum.photos/seed/53/512/512
-54,Pants Model 54,Pants,69,https://picsum.photos/seed/54/512/512
-55,Shoes Model 55,Shoes,79,https://picsum.photos/seed/55/512/512
-56,Bags Model 56,Bags,19,https://picsum.photos/seed/56/512/512
-57,Watches Model 57,Watches,29,https://picsum.photos/seed/57/512/512
-58,Glasses Model 58,Glasses,39,https://picsum.photos/seed/58/512/512
-59,Shirts Model 59,Shirts,49,https://picsum.photos/seed/59/512/512
-60,Pants Model 60,Pants,59,https://picsum.photos/seed/60/512/512
+1,Shoes 01,Shoes,290,https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/r/s/p/8-9491-8-camfoot-white-original-imaghqxfpsffyhg6.jpeg?q=70
+2,Bags 02,Bags,390,https://rukminim2.flixcart.com/image/612/612/xif0q/backpack/l/n/m/8-0-backbencher-14-0-2069-backpack-monvelli-25-0-18-0-original-imahfcuzb39rrzjx.jpeg?q=70
+3,Watches 03,Watches,490,https://rukminim2.flixcart.com/image/612/612/xif0q/watch/k/k/i/-original-imagqfwcb54z7x2s.jpeg?q=70
+4,Glasses 04,Glasses,590,https://rukminim2.flixcart.com/image/612/612/xif0q/frame/a/9/g/49-na-143890-lenskart-blu-original-imahacuk9vjzddhm.jpeg?q=70
+5,Shirts 05,Shirts,699,https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQfdzBcS1N81LjrIJdRH9TZj0D8lMj3I-5JDIWDQ71_-5gz4MtjXUqU_xw6A_3zxkuFfMdfwsm7Qzo8Cy69KGruOQ0KdmlgWJiKnVIaiJKvU-0MJay5gYyo&usqp=CAc
+6,Pants 06,Pants,1679,https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQmnAmabMwueqsxaSGnjQ7iSwclkIv7hkmKwIyzJdIAcG6bMR4_MY0yudx91jbIAweuN4U05jSDOPncFSuPI_W6QnZSvQqT9SF7FdKF5bwKGNeyaAeNdUng7jtYhryvZtSbzWNYaWUcxSA&usqp=CAc
+7,Shoes 07,Shoes,1900,https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/d/2/m/-original-imah6gzaugchqqaj.jpeg?q=70
+8,Bags 08,Bags,299,https://rukminim2.flixcart.com/image/612/612/xif0q/backpack/3/s/o/12-men-and-women-backpack-for-school-bag-college-bag-12-hinex-original-imah4rm2sy3dfuap.jpeg?q=70
+9,Watches 09,Watches,399,https://rukminim2.flixcart.com/image/612/612/xif0q/watch/r/f/q/1-1221-rls-boys-girls-original-imahffhf2f7f4hzg.jpeg?q=70
+10,Glasses 10,Glasses,749,https://rukminim2.flixcart.com/image/612/612/xif0q/frame/5/b/k/1-00-220759-lenskart-hustlr-original-imah8xndutgwbzgp.jpeg?q=70
+11,Shirts 11,Shirts,959,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSy3P5uXzT7IGvTw7ZOLelZnLxhs_7rRqjMERPdM1L2ZcCxkWb8k-hl2d1uYlCi6k3ZSr8kKA2SL2xyCgCtujwa32O_D66hocwsuZpIH7OHzBZpoan7kWjw&usqp=CAc
+12,Pants 12,Pants,699,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSgL0gMOgt0xCQ2uO5s325JEP2ep7FDctNmiTd2v0el8tpYFZ-b7HSF00pXYE0uWDWcgWGbpmPb00o7MP-rBLf8l93WY6t0IAS6yY9mYKQ_psxL0JZzAsf6
+13,Shoes 13,Shoes,790,https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/j/2/k/8-204-8-afrojack-green-original-imaggdkbq8c787bj.jpeg?q=70
+14,Bags 14,Bags,19,https://rukminim2.flixcart.com/image/612/612/xif0q/backpack/s/j/o/-original-imah5wr2ffqzrgxb.jpeg?q=70
+15,Watches 15,Watches,329,https://rukminim2.flixcart.com/image/612/612/xif0q/watch/t/u/d/-original-imahd2p49gvuuafa.jpeg?q=70
+16,Glasses 16,Glasses,539,https://rukminim2.flixcart.com/image/612/612/xif0q/frame/u/c/h/137-na-lb-e13739-lenskart-blu-original-imah4ne2hhkfeabx.jpeg?q=70
+17,Shirts 17,Shirts,1549,https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1753254566_4770368.jpg?w=480&dpr=1.3
+18,Pants 18,Pants,759,https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRVOjOTarohlMV8sJKNJoXs7x80aDx0SJmgOzx3VOpMtT_bwiIVrllRI-_B7uPl0iaQF9I1BOKqnalnHq2yt4yq-h8Vn7NGT54x_cSgDpO_5eUbtXFD2fmU
+19,Shoes 19,Shoes,690,https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/v/l/n/9-klr-limited-black-9-killer-black-original-imahaszbhf3wqfye.jpeg?q=70
+20,Bags 20,Bags,279,https://rukminim2.flixcart.com/image/612/612/xif0q/backpack/m/f/v/3-3-activity-drawstring-sack-with-adjuster-buckle-for-gym-original-imahdmu2k9hqjyhq.jpeg?q=70
+21,Watches 21,Watches,619,https://rukminim2.flixcart.com/image/612/612/xif0q/watch/b/f/g/-original-imagv45ff98zugg4.jpeg?q=70
+22,Glasses 22,Glasses,529,https://rukminim2.flixcart.com/image/612/612/xif0q/frame/a/u/c/53-na-full-transparent-glossy-aferelle-original-imagw8y3hdaxyty3.jpeg?q=70
+23,Shirts 23,Shirts,839,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQd2A8nfy3oeL0U9_GBQJI-QtrzoKAU_USXeCniGkdvh4LOHIfLIvWMptzOZv94MupkKSxY0duEOrZuWLl7yvRpfrKmAz9Xs0zc8IzTuR3gonNLUdUtMjbF
+24,Pants 24,Pants,449,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK7tjp2qPIZBI1YIZfEPE6XWcx6NRMH8vpR9O2IDvTn-pTxkTcr7ilwQc&s
+25,Shoes 25,Shoes,590,https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/q/q/d/10-rsl1188-red-tape-white-green-original-imahafmjah4u8gf7.jpeg?q=70
+26,Bags 26,Bags,690,https://rukminim2.flixcart.com/image/612/612/xif0q/backpack/g/l/h/-original-imahdq23r9cxkyvs.jpeg?q=70
+27,Watches 27,Watches,779,https://rukminim2.flixcart.com/image/612/612/xif0q/watch/9/2/1/2-drw006001-americanviber-women-original-imahcc4smm2txxng.jpeg?q=70
+28,Glasses 28,Glasses,719,https://rukminim2.flixcart.com/image/612/612/xif0q/sunglass/r/a/w/free-size-1213at-dioris-original-imahff7kwxz69zvz.jpeg?q=70
+29,Shirts 29,Shirts,1129,https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRd59vPZ-ITYK3mkBCukW9jqiTkKLrynvPK-Q_cdZ0uKv1IqhdodrE8O68Id8jSEy5eCfyArxtyggaPpLZzwDgscqTcsQ0bQb0NxRtg6f0zauycVoc5K8OL
+30,Pants 30,Pants,1239,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHEB1WDwwRechbgA2MonWwc90sKvEGGJRx0YiauUeBO1c1THNNIIM_Mw&s
+31,Shoes 31,Shoes,490,https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/m/z/4/-original-imahd2zgwpyusgcd.jpeg?q=70
+32,Bags 32,Bags,5959,https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSI_mPM2xpR0Hg7une4WrNo7Y5uy4707Hf31d35E4QpoIK8pt6AMn2ljJmIpJT8uA4tmGrelVzsM92hIGP96r_DPmPxhnB-4CfgrhUJMh7oD3wZQ497-HoMHNitKOlgn1ewYD5ZGA&usqp=CAc
+33,Watches 33,Watches,1569,https://rukminim2.flixcart.com/image/612/612/xif0q/watch/v/f/2/-original-imagrdzghye4wtqq.jpeg?q=70
+34,Glasses 34,Glasses,579,https://rukminim2.flixcart.com/image/612/612/xif0q/sunglass/j/t/b/this-product-is-sold-as-free-size-by-the-brand-blue-black-original-imaher2p8hrnbfwz.jpeg?q=70
+35,Shirts 35,Shirts,519,https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTgVocHrs-uLbNknIaq7ij4U78N1Tgg_eWFqVnk-1QmCqJspODpDDDRutQbzef7sCv8-EfBfXcx9ChpNqFZez40IqxMSdrrsfuBZ8lW8U36
+36,Pants 36,Pants,929,https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMsU6nhpmDxLGx99qcQSeDbCmeRwGgqvx9loD6HuFbQLEdKw
+37,Shoes 37,Shoes,390,https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/8/b/e/10-beamer-10-dsc-fy20-original-imahfzkb6nd7zzvt.jpeg?q=70
+38,Bags 38,Bags,499,https://rukminim2.flixcart.com/image/612/612/xif0q/backpack/h/z/1/15-hemp-hamsa-print-backpack-unisex-tablet-bag-travel-hemp-bag-original-imagj55dabjemv67.jpeg?q=70
+39,Watches 39,Watches,559,https://rukminim2.flixcart.com/image/612/612/xif0q/watch/q/f/y/1-m7-1509-black-chronograph-m7-by-metronaut-men-original-imahcfsjgqpzgwrw.jpeg?q=70
+40,Glasses 40,Glasses,969,https://rukminim2.flixcart.com/image/612/612/xif0q/sunglass/p/0/f/free-size-v8725-c2-eyeshhots-original-imah7m2gnsz74f3t.jpeg?q=70
+41,Shirts 41,Shirts,1579,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTEkvn4lnlG6MFRS1B8CNx_7eiWFQgytwDnoFRmkWSRNAhvgvFqKA_rtI7mCQqj8uWxNUXlENxs-oxGebwTOJXFEJHKiQy9F9GCsNU8PvDNlzeThDQZqcqZ
+42,Pants 42,Pants,1999,https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRUhpjOLb5yv9cNfKRZPlYZYrveZdBuHChiyKzsE3g5PmbHirkt7XSgQKafowJg2nsVm09WzsvFbT8BSrPq7ykHnQbu76kjZPJazpd0WlqCih-mcE7UZVkj9VXBIToeQFTU2ggRouFZ&usqp=CAc
+43,Shoes 43,Shoes,290,https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/m/k/m/8-spectra-olive-8-run-seven-olive-original-imah6esjzbggyvmc.jpeg?q=70
+44,Bags 44,Bags,1339,https://rukminim2.flixcart.com/image/612/612/xif0q/hand-messenger-bag/v/c/n/-original-imahdq23jnc2ffwr.jpeg?q=70
+45,Watches 45,Watches,459,https://rukminim2.flixcart.com/image/612/612/xif0q/watch/t/j/1/lcs-8326-lois-caron-men-original-imahfhdhdmwgc6ge.jpeg?q=70
+46,Glasses 46,Glasses,959,https://rukminim2.flixcart.com/image/612/612/xif0q/sunglass/e/w/r/this-product-is-sold-as-free-size-by-the-brand-360-rotate-lens-original-imahdsmzbsm3qhjh.jpeg?q=70
+47,Shirts 47,Shirts,969,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSJALmEHLYmBn1PFgjJmPgxHGU24mYpcNgczWsBBRFLTO7EpBRcLvKxbWiVgdC20dvdHOcXWjzHhaqFFNcRVJL3Cig_Ct23EU7Tr-a9AVZKaYXwAE6ym5XxPw
+48,Pants 48,Pants,1779,https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRzMPogvKMzX5_ekdwpBaU1USLk7DMyBdeG9ttpeQszl-ppR7zdSPo8rhl-fWSaJCXSt3w9VIExEfFTg_6OtDYLBUtZjD7c486biHny-b-dTCnuniVrlumCQa4
+49,Shoes 49,Shoes,1900,https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/f/8/7/9-hbfs-4m253-hundred-black-blue-yellow-original-imahbfg5gyqpzcgk.jpeg?q=70
+50,Bags 50,Bags,929,https://rukminim2.flixcart.com/image/612/612/xif0q/backpack/m/q/f/8-67-triplex-2-13-39-triplex219cbsag-backpack-safari-37-19-69-original-imah9t3zrdfghnsp.jpeg?q=70
+51,Watches 51,Watches,739,https://rukminim2.flixcart.com/image/612/612/xif0q/watch/s/1/p/-original-imahf7eugwsr8sjn.jpeg?q=70
+52,Glasses 52,Glasses,459,https://rukminim2.flixcart.com/image/612/612/xif0q/sunglass/4/c/q/medium-5823-singco-india-original-imahyqgx7ez65gub.jpeg?q=70
+53,Shirts 53,Shirts,1559,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRzgQVJtfPw4PaaB1KiqdNxFGkKi13rvCmF9z5Yhfk1DoQZio3JSaV2Ml6VryGCIfxDG15nvgG751ZnyyrvLPXV11cCgAE6l0xS3UBPpTYJG9J1ECpdvhiqvQ
+54,Pants 54,Pants,969,https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQN8Yx0OSkSUwdzkR8GFv_S_j4b3Gu0-RPOlnT2_vk1gwkAcQZV342R_gNiDu3F3uZkfBaQvHiQtWusGaFJZ_AzmJIZYKhyhxe5EPNXSrfwvlB5jAHXXpMEUeI
+55,Shoes 55,Shoes,790,https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/o/b/x/-original-imahdh5gahrs9aws.jpeg?q=70
+56,Bags 56,Bags,419,https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-hand-messenger-bag/z/s/1/women-s-latest-beige-hand-bag-hh-002-beige-solid-color-star-original-imah9b4vf7xhymry.jpeg?q=70
+57,Watches 57,Watches,529,https://rukminim2.flixcart.com/image/612/612/xif0q/watch/m/m/t/-original-imahamfxxzzgyf6c.jpeg?q=70
+58,Glasses 58,Glasses,839,https://rukminim2.flixcart.com/image/612/612/xif0q/sunglass/o/v/n/medium-5823-singco-india-original-imahyq2zjrfpq98g.jpeg?q=70
+59,Shirts 59,Shirts,949,https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTbo1FFYaAf82B6dRgpBQWxJyD2zOLJ3F0ePVdZjeUVAwr19V7bYefWQ9drpOTTh41WkCR2SnIiASQfZujeTTd7SU6CAPLhuFcBpL8GiDC61optc7N2Gccv
+60,Pants 60,Pants,1559,https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS_wgBWRiylgubAuqCXO0Q0LNFVEA33pPwgJytote6vMIftP5F84tXAy3ypH2DHATu2SVvQhTyM1AJXiA85UkEKKPcOn1tyGDTPiwQ_EhJUuO20lxfpjNecZQ
+61,Bags 61,Bags,61,https://rukminim2.flixcart.com/image/612/612/xif0q/hand-messenger-bag/o/w/4/taj-guldasta-everyday-tote-bag-40-zetb-tg-tote-zouk-35-original-imah9zrewknftnzr.jpeg?q=70
+
